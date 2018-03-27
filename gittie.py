@@ -6,6 +6,11 @@ def add(a, b):
     print('A ket szam osszege:', a + b)
 
 
+def joke():
+    print("The first computer dates back to Adam and Eve. It was an Apple with limited memory, 
+          just one byte. And then everything crashed.")
+
+
 introduce()
 
 a = int(input('Kerlek adj meg egy szamot!'))
