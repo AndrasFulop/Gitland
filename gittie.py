@@ -11,6 +11,7 @@ def add(a, b):
 def joke():
     print("The first computer dates back to Adam and Eve. It was an Apple with limited memory, 
           just one byte. And then everything crashed.")
+    print('That was a joke. Did you get it?')
 
 
 introduce()
