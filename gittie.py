@@ -15,7 +15,7 @@ def joke():
 
 
 def shout():
-    print("WHAT ARE YOU DOING?\n" * 50)
+    print('MOSTMAR MUKODJON RENDESEN A PROGRAM!!!!!')
 
 
 introduce()
