@@ -5,6 +5,7 @@ def introduce():
 
 def add(a, b):
     print('A ket szam osszege:', a + b)
+    print('Most ki is vonjuk oket:', a - b)
 
 
 def joke():
