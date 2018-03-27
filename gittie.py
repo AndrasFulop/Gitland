@@ -1,5 +1,6 @@
 def introduce():
     print("Hello, I'm gittie")
+    print("Gyertya says you are cool!")
 
 
 def add(a, b):
