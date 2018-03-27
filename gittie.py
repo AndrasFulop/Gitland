@@ -1,5 +1,5 @@
 def introduce():
-    print("Hello, I'm gittie")
+    print("Hello, I'm gittie - What do you want?")
     print("Gyertya says you are cool!")
 
 
